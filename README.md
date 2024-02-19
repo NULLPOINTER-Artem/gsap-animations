@@ -1,3 +1,5 @@
+[DEMO](https://nullpointer-artem.github.io/gsap-animations/)
+
 ## Install
 
 To get started please run this command for install all needed npm packages locally
