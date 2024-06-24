@@ -1,5 +1,3 @@
-import $ from 'jquery';
-
 const animateText = (element) => {
   let newText = "";
   const theElement = typeof element === 'string' ? document.querySelector(element) : element;
